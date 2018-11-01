@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>container Orchestration on CLOUDZ LABS</title>
+    <link>http://tech.cloudz-labs.io/tags/container-orchestration/</link>
+    <description>Recent content in container Orchestration on CLOUDZ LABS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 21 Feb 2018 11:33:28 +0900</lastBuildDate>
+    
+	<atom:link href="http://tech.cloudz-labs.io/tags/container-orchestration/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Kubernetes 활용(1/8)] 시작하기</title>
+      <link>http://tech.cloudz-labs.io/posts/kubernetes/getting-start/</link>
+      <pubDate>Wed, 21 Feb 2018 11:33:28 +0900</pubDate>
+      
+      <guid>http://tech.cloudz-labs.io/posts/kubernetes/getting-start/</guid>
+      <description>언젠가부터 클라우드 열풍이 불어 닥치고 있습니다. 기술의 변화를 보면 IaaS보다는 PaaS나 SaaS를 선호하고, VM에서 직접 컨트롤 하기 보다는 컨테이너, 서버리스 형태의 기술들이 뜨고 있습니다. 저도 그러한 이유로 작년부터 조금씩 회사에서 Kubernetes 스터디를 하고 있네요. 이번 첫번째 챕터에서는 Kubernetes를 처음 접하는 사용자를 위해 Kubernetes 환경에서 애플리케이션을 배포/접속하고 관리하는 기본적인 방법에 대해 보도록 하겠습니다.
+시작하기 전에 애플리케이션 배포를 진행하기 전에 이해가 필요한 기본 개념입니다.
+Kubernetes  Kubernetes는 2014년 Google이 시작한 프로젝트로, 애플리케이션 컨테이너의 배포, 스케일링, 오퍼레이팅을 자동화 해주는 오픈 소스 플랫폼입니다.</description>
+    </item>
+    
+  </channel>
+</rss>
